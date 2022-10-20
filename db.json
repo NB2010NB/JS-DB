@@ -1,0 +1,63 @@
+{
+
+"spices":[
+    {
+        "id":0,
+        "name":"Doket",
+        "weight":"50kg",
+        "price":600
+    },
+    {
+        "id":1,
+        "name":"Doket",
+        "weight":"25kg",
+        "price":300
+    },
+    {
+        "id":2,
+        "name":"Kik",
+        "weight":"`1kg",
+        "price":20
+    },
+    {
+        "id":3,
+        "name":"Shmbera kik",
+        "weight":"`1kg",
+        "price":20
+    },
+    {
+        "id":3,
+        "name":"bona",
+        "weight":"`1kg",
+        "price":20
+    }
+],
+
+"clothing":[
+    {
+        "id":0,
+        "name":"dress",
+        "color":"white",
+        "price":400
+    },
+    {
+        "id":1,
+        "name":"T-shirt",
+        "color":"white",
+        "price":300
+    },
+    {
+        "id":3,
+        "name":"Dress-Kids",
+        "color":"white",
+        "price":200
+    },
+    {
+        "id":1,
+        "name":"T-shirt",
+        "color":"black",
+        "price":300
+    }
+]
+
+}
